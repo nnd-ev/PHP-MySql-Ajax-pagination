@@ -1,0 +1,1 @@
+# PHP-MySql-Ajax-pagination
